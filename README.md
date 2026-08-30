@@ -71,7 +71,7 @@ Aerofit’s market research team wants to understand **who buys which treadmill*
 
 ## 📓 Notebook & Full Report
 
-- **Jupyter Notebook**: [`./notebooks/`](./notebooks/)
+- **Jupyter Notebook**: [`./notebooks/`](./notebooks/aerofit_probability_analysis.ipynb)
 - **PDF Report**: [`./reports/`](./reports/)
 ---
 
