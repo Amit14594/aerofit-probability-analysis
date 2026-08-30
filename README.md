@@ -69,12 +69,21 @@ Aerofit’s market research team wants to understand **who buys which treadmill*
 
 ---
 
-**Author:** Amit Narendra Adikane  
-**LinkedIn:** [amit-adikane](https://www.linkedin.com/in/amit-adikane-4060a91b1/)
-
----
-
 ## 📓 Notebook & Full Report
 
 - **Jupyter Notebook**: [`./notebooks/`](./notebooks/)
 - **PDF Report**: [`./reports/`](./reports/)
+---
+
+## 🚀 Skills Demonstrated
+
+- Customer segmentation using descriptive statistics
+- Contingency tables & probability calculations
+- Translating probabilities into sales-floor recommendations
+- Clear data storytelling for non-technical stakeholders
+
+---
+
+**Author:** Amit Narendra Adikane  
+**GitHub:** [Amit14594](https://github.com/Amit14594)  
+**LinkedIn:** [amit-adikane](https://www.linkedin.com/in/amit-adikane-4060a91b1/)
